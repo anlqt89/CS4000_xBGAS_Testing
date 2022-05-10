@@ -1,0 +1,1 @@
+assertion failed @ 0x0000000080001bb6: tf->cause < ARRAY_SIZE(trap_handlers) && trap_handlers[tf->cause]

@@ -1,0 +1,6 @@
+before: S32 = 1
+after : S32 = 2
+before: S64 = 1
+after add: S64 = 2
+address = 2139003624
+before cas : S64 = 2
