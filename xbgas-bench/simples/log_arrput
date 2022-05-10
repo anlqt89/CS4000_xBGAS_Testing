@@ -1,0 +1,22 @@
+=========================
+ xBGAS Arrput Benchmark
+=========================
+Data size       = 81920 Bytes
+Element #       = 10240
+PE #            = 2
+Time cost       = 0.001030 sec
+------------------------------------------
+PE = 0, dest[0] = 1
+PE = 0, dest[1] = 1
+PE = 0, dest[2] = 1
+PE = 0, dest[3] = 1
+PE = 0, dest[4] = 0
+PE = 0, dest[5] = 0
+PE = 0, dest[6] = 0
+PE = 1, dest[0] = 0
+PE = 1, dest[1] = 0
+PE = 1, dest[2] = 0
+PE = 1, dest[3] = 0
+PE = 1, dest[4] = 0
+PE = 1, dest[5] = 0
+PE = 1, dest[6] = 0

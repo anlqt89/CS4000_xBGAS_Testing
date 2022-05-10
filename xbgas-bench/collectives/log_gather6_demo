@@ -1,0 +1,8 @@
+Pre-Gather - PE 2 src_array = 2 2 2 2 2
+Pre-Gather - PE 3 src_array = 3 3 3 3 3
+Pre-Gather - PE 1 src_array = 1 1 1 1 1
+Pre-Gather - PE 0 src_array = 0 0 0 0 0
+Pre-Gather - PE 0 dest_array = 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99
+Pre-Gather - PE 1 dest_array = 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99
+Pre-Gather - PE 2 dest_array = 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99
+Pre-Gather - PE 3 dest_array = 0 0 0 1 1 2 2 2 2 0 0 0 0 0 3

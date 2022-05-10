@@ -1,0 +1,4 @@
+Pre-AlltoAll - PE:0 my_array: 0 0 0 0 0 0 0 0
+Pre-AlltoAll - PE:1 my_array: 1 1 1 1 1 1 1 1
+Post-AlltoAll - PE:1 my_array: 0 1 1 1 1 1 1 1
+Post-AlltoAll - PE:0 my_array: 0 1 0 0 0 0 0 0

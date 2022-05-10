@@ -1,0 +1,10 @@
+RUNNING ATOMIC compare_swap TEST FOR TYPE int!
+Before atomic operation PE: 0   Source value: 100       Return value: 999       Op value: 200
+Before atomic operation PE: 2   Source value: 300       Return value: 999       Op value: 200
+Before atomic operation PE: 3   Source value: 400       Return value: 999       Op value: 200
+Before atomic operation PE: 1   Source value: 200       Return value: 999       Op value: 200
+After atomic operation  PE: 2   Source value: 300       Return value: 999       Op value: 200
+After atomic operation  PE: 3   Source value: 400       Return value: 999       Op value: 200
+After atomic operation  PE: 1   Source value: 100       Return value: 999       Op value: 200
+After atomic operation  PE: 0   Source value: 100       Return value: 200       Op value: 200
+ATOMIC compare_swap TEST FOR TYPE int COMPLETED!

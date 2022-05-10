@@ -1,0 +1,60 @@
+PE 0 allocations complete.
+small_array addr = 26140
+medium_array addr = 26550
+large_array addr = 28d60
+
+PE 1 allocations complete.
+small_array addr = 26140
+medium_array addr = 26550
+large_array addr = 28d60
+
+PE 0 beginning aggregated store of 256 elements trial.
+Total data size = 1024 bytes.
+
+PE 1 beginning aggregated store of 256 elements trial.
+Total data size = 1024 bytes.
+
+PE 0 completed aggregated store of 256 elements trial.
+
+PE 1 completed aggregated store of 256 elements trial.
+
+PE 1 beginning aggregated store of 2560 elements trial.
+Total data size = 10240 bytes.
+
+PE 0 beginning aggregated store of 2560 elements trial.
+Total data size = 10240 bytes.
+
+PE 0 completed aggregated store of 2560 elements trial.
+
+PE 1 completed aggregated store of 2560 elements trial.
+
+PE 1 beginning aggregated store of 25600 elements trial.
+Total data size = 102400 bytes.
+
+PE 0 beginning aggregated store of 25600 elements trial.
+Total data size = 102400 bytes.
+
+PE 0 completed aggregated store of 25600 elements trial.
+
+PE 1 completed aggregated store of 25600 elements trial.
+
+PE 0 completed all trials.
+
+PE 1 completed all trials.
+
+PE 0 Verification Values
+small_array[0] = 0 small_array[1] = 0 small_array[2] = 0
+small_array[SMALL_NELEMS-1] = 0 small_array[SMALL_NELEMS-2] = 0 small_array[SMALL_NELEMS-3] = 0
+medium_array[0] = 0 medium_array[1] = 0 medium_array[2] = 0
+medium_array[MEDIUM_NELEMS-1] = 0 medium_array[MEDIUM_NELEMS-2] = 0 medium_array[MEDIUM_NELEMS-3] = 0
+large_array[0] = 0 large_array[1] = 0 large_array[2] = 0
+large_array[LARGE_NELEMS-1] = 0 large_array[LARGE_NELEMS-2] = 0 large_array[LARGE_NELEMS-3] = 0
+
+PE 1 Verification Values
+small_array[0] = 1 small_array[1] = 1 small_array[2] = 1
+small_array[SMALL_NELEMS-1] = 1 small_array[SMALL_NELEMS-2] = 1 small_array[SMALL_NELEMS-3] = 1
+medium_array[0] = 1 medium_array[1] = 1 medium_array[2] = 1
+medium_array[MEDIUM_NELEMS-1] = 1 medium_array[MEDIUM_NELEMS-2] = 1 medium_array[MEDIUM_NELEMS-3] = 1
+large_array[0] = 1 large_array[1] = 1 large_array[2] = 1
+large_array[LARGE_NELEMS-1] = 1 large_array[LARGE_NELEMS-2] = 1 large_array[LARGE_NELEMS-3] = 1
+

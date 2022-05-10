@@ -1,0 +1,16 @@
+PE 0 of 2 _XBRTIME_MIN_UNR_THRESHOLD_: 8 _XBRTIME_UNROLL_FACTOR_: 4
+
+PE 1 of 2 _XBRTIME_MIN_UNR_THRESHOLD_: 8 _XBRTIME_UNROLL_FACTOR_: 4
+
+PE 1 of 2 initialized! int32_vals addr (pe relative): 164848
+int64_vals addr: 2
+
+PE 0 of 2 initialized! int32_vals addr (pe relative): 164848
+int64_vals addr: 2
+
+Performing get of 517 4-byte words. Source PE: 1 My PE: 0
+
+PE 0 of 2 completed tests!
+
+PE 1 of 2 completed tests!
+

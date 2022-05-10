@@ -1,0 +1,13 @@
+===========================
+ xBGAS Shmem_all Benchmark
+===========================
+Data size       = 81920 Bytes
+Element #       = 10240
+PE #            = 2
+------------------------------------------
+myid            = 0, scounts=0 0 
+myid            = 1, scounts=1 1 
+myid            = 1, rcounts=0 1 
+myid            = 0, rcounts=0 1 
+Time cost       = 0.001062 sec
+------------------------------------------

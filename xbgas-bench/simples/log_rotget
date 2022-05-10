@@ -1,0 +1,15 @@
+=========================
+ xBGAS RotGet Benchmark
+=========================
+Data size       = 81920 Bytes
+Element #       = 10240
+PE #            = 2
+Time cost       = 0.000096 sec
+------------------------------------------
+Before:
+PE = 0 : Shared_var = 0
+PE = 1 : Shared_var = 1
+After:
+PE = 1 : Shared_var = 0
+PE = 0 : Shared_var = 1
+------------------------------------------

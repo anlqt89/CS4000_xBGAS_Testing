@@ -1,0 +1,18 @@
+=========================
+ xBGAS Stride Benchmark
+=========================
+Data size       = 81920 Bytes
+Element #       = 10240
+PE #            = 2
+Time cost       = 0.000092 sec
+------------------------------------------
+PE 1: target[0] = 1
+PE 1: target[1] = 666
+PE 1: target[2] = 3
+PE 1: target[3] = 666
+PE 1: target[4] = 5
+PE 1: target[5] = 666
+PE 1: target[6] = 7
+PE 1: target[7] = 666
+PE 1: target[8] = 9
+PE 1: target[9] = 666

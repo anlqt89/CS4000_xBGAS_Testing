@@ -1,0 +1,22 @@
+Pre-Op - PE:1 b_vals[0]: 1 b_vals[NELEMS-1]: 1 dest_vals[0]: 999 dest_vals[NELEMS-1]: 999
+Pre-Op - PE:0 b_vals[0]: 0 b_vals[NELEMS-1]: 0 dest_vals[0]: 999 dest_vals[NELEMS-1]: 999
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+DEBUG::  [1m[32m translate remote base address [0m 
+DEBUG::  [1m[34m Translation completes [0m 
+Post-Op - PE:1 b_vals[0]: 1 b_vals[NELEMS-1]: 1 dest_vals[0]: 0 dest_vals[NELEMS-1]: 0
+Post-Op - PE:0 b_vals[0]: 0 b_vals[NELEMS-1]: 0 dest_vals[0]: 0 dest_vals[NELEMS-1]: 0

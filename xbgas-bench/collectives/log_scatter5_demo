@@ -1,0 +1,8 @@
+Pre-Scatter - PE 0 src_array = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pre-Scatter - PE 3 src_array = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Pre-Scatter - PE 2 src_array = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pre-Scatter - PE 1 src_array = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pre-Scatter - PE 0 dest_array = 1 2 3 0 0
+Pre-Scatter - PE 3 dest_array = 7 8 9 10 11
+Pre-Scatter - PE 1 dest_array = 4 5 0 0 0
+Pre-Scatter - PE 2 dest_array = 6 0 0 0 0
